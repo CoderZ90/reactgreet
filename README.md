@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+## Plan of the project -
+
+[+] Create a react App From Scratch
+[+] Show heading if time between 1 to 12 AM
+[+] Afternoon 12PM to 7PM
+[+] Night if 7pm
+[+] Apply CSS Dynamic
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
